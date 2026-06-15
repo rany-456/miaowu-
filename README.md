@@ -22,7 +22,7 @@
 
 ## 💡 产品介绍
 
-产品链接：https://miaowu-silk.vercel.app
+产品链接：https://miaowu.chat
 
 **妙悟**是一款面向中文内容创作者的 AI 写作工具。
 
